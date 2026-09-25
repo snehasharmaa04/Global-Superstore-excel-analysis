@@ -2,16 +2,7 @@
 An interactive Excel Pivot Table &amp; Chart Dashboard analyzing global sales performance, category revenue, and multi-year growth trends.
 # 📊 Sales Performance Analysis Dashboard (Excel)
 
-An interactive, dynamic sales analytics dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, and Slicers. The project analyzes commercial performance across global regions, product categories, and historical timelines using the Global Superstore dataset.
-
----
-
-## 📸 Dashboard Preview
-
-![Sales Performance Dashboard](dashboard_screenshot.png)
-(Note: Upload your saved screenshot with the name dashboard_screenshot.png in the repo to display it here)
-
----
+An interactive, dynamic sales analytics dashboard built in Microsoft Excel using Pivot Tables, Pivot Charts, and Slicers. The project analyzes commercial performance across global regions, product categories, and historical timelines using the Global Superstore data
 
 ## 🎯 Key Objectives & Deliverables
 
